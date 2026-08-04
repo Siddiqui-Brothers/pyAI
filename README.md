@@ -56,11 +56,9 @@ pyAI/
 
 ### 1. Clone the repository
 
-bash
-...
 git clone https://github.com/Siddiqui-Brothers/pyAI.git
+
 cd pyAI
-```
 
 ### 2. Install Python
 
@@ -71,11 +69,12 @@ https://www.python.org/
 
 - ✅ Windows
 - ✅ Linux
-- ✅ macOS
-- ✅ Android (Termux)
+- ⏳ macOS (planned) Community Testing is Welcomed
+- ⏳ Android (Termux) (Experimental)
 
 ### 4. Run pyAI
-python main.py (in cmd after cd into pyAI folder)
+python main.py (in terminal after cd into pyAI folder)
+or use the run.bat/ run.sh file....
 On first launch, pyAI automatically:
 
 - 📦 Installs its dependencies (it will ask (y/n)...
@@ -102,14 +101,10 @@ Each profile has its own independent memory.
 
 Simply ask something like:
 
-```
 Generate an image of a cyberpunk city at sunset.
-```
 or
-
-```
 Draw Makima in anime style.
-```
+
 pyAI automatically enhances your prompt before generating the image.
 
 ## 📜 License
@@ -134,7 +129,9 @@ Created with lots of Chai, debugging, and questionable life decisions by
 - Vision support
 - Desktop GUI
 - Better image generation
-- Cross-platform installer
+- Games in AI
+- MP4 to MP3 Convertor
+- Voice Assistant
 
 If you enjoy the project, consider leaving a ⭐ on GitHub!
 Every star helps ❤️
