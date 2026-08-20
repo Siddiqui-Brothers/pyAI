@@ -50,8 +50,6 @@ def ensure_termux_packages():
     packages = [
         "python",
         "curl",
-        "git",
-        "zstd"
         "rust"
     ]
 
